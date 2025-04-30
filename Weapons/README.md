@@ -1,7 +1,7 @@
 # Lista de armas ordenadas por número
 
 - [0_Sploosh-o-matic.png](0_Sploosh-o-matic.png)  
-- [1_Neo Sploosh-o-matic.png](1_Neo Sploosh-o-matic.png)  
+- [1_Neo Sploosh-o-matic.png](1_Neo%20Sploosh-o-matic.png)  
 - [2_Splattershot Jr..png](2_Splattershot Jr..png)  
 - [3_Custom Splattershot Jr..png](3_Custom Splattershot Jr..png)  
 - [4_Splash-o-matic.png](4_Splash-o-matic.png)  
